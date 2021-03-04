@@ -8,7 +8,7 @@ Angular is a well-suited framework for large and complex web applications due to
 
     * Brief history of Angular (Reference [#f2]_)
     * Who invented it and when
-    * What is Angular
+    * What is Angular?
 
 * Complexities of Angular
 
