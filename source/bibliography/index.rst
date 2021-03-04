@@ -16,3 +16,7 @@ This is a video posted by Google Chrome Developers on YouTube. [#f3]_ This talk 
 This is an eBook called Angular Succinctly. [#f4]_ It discusses topics such as dev environment, Angular CLI, customization, and more. This eBook will help provide information on how Angular works in greater detail and its ins and outs.
 
 .. [#f4] Booth, J. (2019, February 4). Syncfusion free ebooks: Angular succinctly. Retrieved February 12, 2021, from https://www.syncfusion.com/ebooks/angular-succinctly
+
+.. [#f5] What is angularjs? (n.d.). Retrieved February 23, 2021, from https://www.w3schools.com/whatis/whatis_angularjs.asp
+
+..[#f6] https://technostacks.com/blog/react-vs-angular#:~:text=React%20has%20a%20Virtual%20DOM%20which%20can%20help,are%20looking%20for%20reliable%2C%20intensive%20and%20straightforward%20programming.
