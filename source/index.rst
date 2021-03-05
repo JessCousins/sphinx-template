@@ -10,5 +10,6 @@ Fill in  this text with your own intro text
    chapter1/index
    chapter2/index
    bibliography/index
+   outline/index
 
 
